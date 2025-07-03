@@ -1,0 +1,16 @@
+# ignore all files typpical for a python project
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+# Ignore virtual environment directories
+venv/
+
+build/
+dist/
+*.log
+.env
+.idea/
+*.py[cod]
+*.sqlite3
+*.iml

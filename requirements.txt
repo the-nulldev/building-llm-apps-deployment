@@ -1,0 +1,14 @@
+langchain-core~=0.3.66
+langchain-openai~=0.3.24
+langchain-community~=0.3.26
+langfuse==2.60.8
+qdrant-client~=1.14.3
+langchain_qdrant
+langchain-redis
+requests
+nemoguardrails~=0.14.0
+python-dotenv~=1.1.0
+uvicorn
+fastapi~=0.115.13
+pydantic~=2.11.7
+gunicorn
